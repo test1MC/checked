@@ -48,11 +48,11 @@
         phase-name="pretrans"><source>one</source><seg-source><mrk
             mtype="seg"
             mid="1">one</mrk></seg-source><target
-          state="translated"><mrk
+          state="needs-translation"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">dos</mrk></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0">dos1</mrk></target></trans-unit><trans-unit
         id="2"
         restype="string"
         phase-name="pretrans"><source>two</source><seg-source><mrk
